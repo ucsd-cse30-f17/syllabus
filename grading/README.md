@@ -37,5 +37,5 @@ The one on which you get a higher score will count for 15% of your final grade, 
 
 ## Final Exam
 
-There will be a cumulative final exam.
+There will be a cumulative final exam. It's format will be similar to the midterm tests.
 
