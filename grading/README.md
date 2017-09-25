@@ -4,8 +4,8 @@ Your grade will be calculated from:
 
 - 10% for on-line reading/lecture review quizzes
 - 10% for in-class participation via clickers
-- 35% for programming/homework assignments (7-9 total assignments)
-- 25% for 2 mid-term tests (10% for the lower grade, 15% for the higher one)
+- 40% for programming/homework assignments (7-9 total assignments)
+- 20% for 2 mid-term tests (5% for the lower grade, 15% for the higher one)
 - 20% for a final exam
 
 Above 90% is a guaranteed A- or better, above 80% is a guaranteed B- or better, and above 70% is a guaranteed C- or better.
@@ -27,13 +27,13 @@ We will use clickers in class. You will get a participation grade based on the p
 
 Most weeks will feature a programming or homework assignment. This will usually involve logging into the Raspberry Pi cluster and writing some C or assembly code and handing it in. Some weeks may have short response questions or problem sets.
 
-The weight of the assignments towards the total 35% may adjust slightly over the quarter. We will provide more detail on this as the course goes on.
+The weight of the assignments towards the total 40% may adjust slightly over the quarter. We will provide more detail on this as the course goes on.
 
 ## Midterm Tests
 
 There will be two midterm tests, on **fill** and **fill**, which will be given in-class.
 
-Your grade 
+The one on which you get a higher score will count for 15% of your final grade, the one on which you get a lower score will count for 5% of your final grade.
 
 ## Final Exam
 
