@@ -2,10 +2,10 @@
 
 Your grade will be calculated from:
 
-- 10% for on-line reading/lecture review quizzes
+- 5% for on-line reading/lecture review quizzes
 - 10% for in-class participation via clickers
-- 40% for programming/homework assignments (7-9 total assignments)
-- 20% for 2 mid-term tests (5% for the lower grade, 15% for the higher one)
+- 40% for programming/homework assignments (7-8 total assignments)
+- 25% for 2 mid-term tests (10% for the lower grade, 15% for the higher one)
 - 20% for a final exam
 
 Above 90% is a guaranteed A- or better, above 80% is a guaranteed B- or better, and above 70% is a guaranteed C- or better.
@@ -33,7 +33,7 @@ The weight of the assignments towards the total 40% may adjust slightly over the
 
 There will be two midterm tests, on **fill** and **fill**, which will be given in-class.
 
-The one on which you get a higher score will count for 15% of your final grade, the one on which you get a lower score will count for 5% of your final grade.
+The one on which you get a higher score will count for 15% of your final grade, the one on which you get a lower score will count for 10% of your final grade.
 
 ## Final Exam
 
