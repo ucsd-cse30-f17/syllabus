@@ -19,9 +19,15 @@ There will be 1-3 reading and review quizzes per week, done online. These are pr
 
 Not all lectures will have readings assigned, but many will.
 
-## Participation
+## Participation/clickers
 
 We will use clickers in class. You will get a participation grade based on the proportion of clicker reponses you give. Correctness is _not_ taken into account in calculating this part of your grade, just participation in the questions.
+
+We might not use clickers in every lecture. Your clicker points will be calculated by:
+
+    MIN(1, lectures where you participated / (total # of clicker lectures - 4)) * 10
+    
+That is, you can miss up to 4 lectures with clicker questions without it affecting your grade. There will probably be between 20 and 25 total lectures with clicker questions.
 
 ## Programming/Homework Assignments
 
