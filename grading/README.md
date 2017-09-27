@@ -15,7 +15,7 @@ These thresholds may be lowered, but will not be raised.
 
 ## Reading/lecture Review Quizzes
 
-There will be 1-2 reading and review quizzes per week, done online. These are primarily to get you to engage with and reflect on lectures and readings. They also give you a set of questions that are useful to study for later exams.
+There will be 1-3 reading and review quizzes per week, done online. These are primarily to get you to engage with and reflect on lectures and readings. They also give you a set of questions that are useful to study for later exams. You get full credit for each quiz where you get at least half the questions right.
 
 Not all lectures will have readings assigned, but many will.
 
