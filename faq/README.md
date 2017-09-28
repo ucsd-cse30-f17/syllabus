@@ -1,12 +1,18 @@
 # Frequently Asked (or Anticipated Frequent) Questions
 
-## How to Ask a Course Question On-Line
+## Asking for Help
 
-This refers to asking questions _outside_ of class, not in class (where it will be clear whether you should raise your hand, shout out answers, use a clicker, etc).
+### In Lab Hours
+
+We have a number of lab hours, where tutors and TAs are available to help, in B260 in the CSE building. We will use Autograder (https://autograder.ucsd.edu/) to manage requests for help.
+
+When you submit an Autograder ticket, you must have an actionable question. We may simply respond and tell you to ask a more specific question if you submit a ticket with an issue like “My code isn't working”. When the tutor arrives at your workstation, be ready to describe the problem you're having, and at least one thing you've tried in order to solve it.
+
+You should _not_ expect to have your problem solved by the time a tutor leaves your workstation. Instead, you should expect to have a concrete next step to work on, which may mean going back a step and re-trying something, or working on more testing.
 
 ### Piazza Questions
 
-The best way to ask a question is via a Piazza post. The default on our Piazza board is for questions to be _private_. You are also welcome to ask and answer public questions! Before you do, consider:
+One way to ask a question is via a Piazza post. The default on our Piazza board is for questions to be _private_. You are also welcome to ask and answer public questions! Before you do, consider:
 
 - Does it contribute to a positive, constructive, and respectful forum for discussion and learning?
 - Does it contain contain your personal source code, or other information that shouldn't be shared class-wide?
