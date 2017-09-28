@@ -18,7 +18,7 @@ In your question, clearly indicate the problem you're having or question you nee
 
 We will, for each assignment, aggregate together a frequently asked questions post that draws from questions we receive in office hours and via Piazza posts. If you ask a question that's already answered in that post, we'll likely just send you a link to that post. That post will be updated as new important questions and answers come in.
 
-For public discussion, note that answers from your classmates are not official. They could be downright wrong or misleading, completely by accident. “My classmate said so on Piazza” is not justification for a decision you made when arguing about a grade, for instance. In public discussions, the same guidelines as above apply.
+For public discussion, note that answers from your classmates are not official. They could be downright wrong or misleading, completely by accident. “My classmate said so on Piazza” is not justification for a decision you made when arguing about a grade, for instance. In public discussions, the same guidelines as above apply – act professionally and with a sense of respect for one another and for the course staff.
 
 ### Private/sensitive Questions
 
