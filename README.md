@@ -1,10 +1,12 @@
 # CSE 30 Fall 2017
 
-## Quick Links
+## Lectures and Dates
 
-Lectures: WLH 2005, Mon/Wed/Fri 8am (A section) 9am (B section)
-
-Discussion: WLH 2005, Mon 7pm (A section) 8pm (B section)
+- *Lectures*: WLH 2005, Mon/Wed/Fri 8am (A section) 9am (B section)
+- *Discussion*: WLH 2005, Mon 7pm (A section) 8pm (B section)
+- *Office Hours*: Coming Soon
+- *Midterms*: October 10, November 13
+- *Final*: December 11 (A), December 13 (B)
 
 Piazza: https://piazza.com/ucsd/fall2017/cse30
 
