@@ -18,13 +18,8 @@ http://libraries.ucsd.edu/assets/elearning/cse/cseplagiarismlink/story.html
 
 Complete this form:
 
-[FILL academic honesty link]
+[Academic Honesty Agreement](https://docs.google.com/forms/d/e/1FAIpQLSfioSy3FLfg-xdPw_EYQe-_WQgpz0_hwk4jOGjtNwizmrlidQ/viewform)
 
-## iClicker Registration and Github account setup
-
-Complete this form:
-
-[FILL account registration form]
 
 ## Log in to the Raspberry Pi cluster
 
@@ -69,6 +64,8 @@ $ ./pa0.bin
 -bash: ./a.out: cannot execute binary file
 ```
 
-To confirm that this all worked for you, copy/paste the successful run into this form:
+## iClicker Registration, Github account setup, and Handin
 
-[LINK]
+Complete this form so we can associate your various accounts, and paste the output of `./pa0.bin` above as the answer to the last question:
+
+[Account Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScuZfh_JQsksLSXHupoRJ9KClLMoxrHB8wPbjEAZCe9XKwm-g/viewform)
