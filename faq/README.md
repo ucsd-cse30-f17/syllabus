@@ -8,7 +8,7 @@ We have a number of lab hours, where tutors and TAs are available to help, in B2
 
 When you submit an Autograder ticket, you must have an actionable question. We may simply respond and tell you to ask a more specific question if you submit a ticket with an issue like “My code isn't working”. When the tutor arrives at your workstation, be ready to describe the problem you're having, and at least one thing you've tried in order to solve it.
 
-You should _not_ expect to have your problem solved by the time a tutor leaves your workstation. Instead, you should expect to have a concrete next step to work on, which may mean going back a step and re-trying something, or working on more testing.
+You should _not_ expect to have your problem solved by the time a tutor leaves your workstation. Instead, you should expect to have a concrete next step to work on, which may mean going back a step and re-trying something, working on more testing, or reviewing reading and lecture material that will help you understand the problem.
 
 ### Piazza Questions
 
