@@ -4,21 +4,21 @@
 
 This refers to asking questions _outside_ of class, not in class (where it will be clear whether you should raise your hand, shout out answers, use a clicker, etc).
 
-### General Questions
+### Piazza Questions
 
-The best way to ask a question is via a private Piazza post. The default on our Piazza board is for questions to be _private_.
+The best way to ask a question is via a Piazza post. The default on our Piazza board is for questions to be _private_. You are also welcome to ask and answer public questions! Before you do, consider:
 
-Please _do not_ post public questions or notes.
+- Does it contribute to a positive, constructive, and respectful forum for discussion and learning?
+- Does it contain contain your personal source code, or other information that shouldn't be shared class-wide?
+- Is it a question that's been asked before, that you could find via searching?
 
-We know that this may differ from how you use Piazza in other courses. The goal is to cut down on the public-facing volume of posts to search, and the amount of potentially-ambiguous answers that can arise via quick responses on public posts.
+We will make private posts that violate these guidelines. We may summarize and make public good questions that are asked privately, as well. Overall, our goal is to make the public content on Piazza constructive and relevant for everyone.
 
-In your question, clearly indicate the problem you're having or question you need answered, and feel free to share any supporting code or screenshots that may help us understand what's going on. If it's a simple technical issue, you might get a direct answer. If it's a question about an assignment, expect to get questions back that lead you towards a better understanding.
+In your question, clearly indicate the problem you're having or question you need answered, and feel free to share any supporting code or screenshots that may help us understand what's going on. If it's a simple technical issue, you might get a direct answer. If it's a question about an assignment, expect to get questions back that lead you towards a better understanding, _not_ an immediate answer that solves your problem.
 
-Our goal is to get you a response within 36 hours of weekday time; over the weekend expect a response within 72 hours. Note that this means questions asked on the day of a deadline are not guaranteed to get a response before the deadline.
+We will, for each assignment, aggregate together a frequently asked questions post that draws from questions we receive in office hours and via Piazza posts. If you ask a question that's already answered in that post, we'll likely just send you a link to that post. That post will be updated as new important questions and answers come in.
 
-We will, for each assignment and week of lectures, aggregate together a frequently asked questions post that draws from questions we receive in office hours and via private Piazza posts. If you ask a question that's already answered in that post, we'll likely just send you a link to that post. That post will be updated daily.
-
-If you want to have an additional public discussion with your classmates, feel free to do so in the follow-ups to these frequently-asked-question posts. However, note that answers from your classmates are not official
+For public discussion, note that answers from your classmates are not official. They could be downright wrong or misleading, completely by accident. “My classmate said so on Piazza” is not justification for a decision you made when arguing about a grade, for instance. In public discussions, the same guidelines as above apply.
 
 ### Private/sensitive Questions
 
