@@ -35,9 +35,11 @@ Most weeks will feature a programming or homework assignment. This will usually 
 
 The weight of the assignments towards the total 40% may adjust slightly over the quarter. We will provide more detail on this as the course goes on.
 
+Programming assignments can be submitted up to 24 hours late with a 20% penalty on the total number of points.
+
 ## Midterm Tests
 
-There will be two midterm tests, on **fill** and **fill**, which will be given in-class.
+There will be two midterm tests, on **October 20** and **November 13**, which will be given in-class.
 
 The one on which you get a higher score will count for 15% of your final grade, the one on which you get a lower score will count for 10% of your final grade.
 
