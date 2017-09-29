@@ -1,10 +1,16 @@
-# Frequently Asked (or Anticipated Frequent) Questions
+# Course Policies
+
+## Academic Honesty
+
+This course is governed by an academic honesty policy that enforces academic integrity (e.g. no cheating). See https://academicintegrity.ucsd.edu/forms/form-scholarship-agreement.html for an overview of what constitutes an academic integrity violation in a CSE course. Assignments will be clear on when they are intended to be collaborative versus individual work.
 
 ## Asking for Help
 
+We want to help, and you should be asking lots of questions! The guidelines below are to make sure we can give you prompt and effective assistance.
+
 ### In Lab Hours
 
-We have a number of lab hours, where tutors and TAs are available to help, in B260 in the CSE building. We will use Autograder (https://autograder.ucsd.edu/) to manage requests for help.
+We have a number of lab hours, where tutors and TAs are available to help, in B260 in the CSE building. We will use Autograder (https://autograder.ucsd.edu/) to manage requests for help. The schedule of hours will be posted early in the second week. 
 
 When you submit an Autograder ticket, you must have an actionable question. We may simply respond and tell you to ask a more specific question if you submit a ticket with an issue like “My code isn't working”. When the tutor arrives at your workstation, be ready to describe the problem you're having, and at least one thing you've tried in order to solve it.
 
