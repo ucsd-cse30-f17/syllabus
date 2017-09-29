@@ -10,6 +10,13 @@ You will:
 - Log into the Raspberry Pi cluster
 - Run a few commands to test out how we'll hand in work
 
+Due Tuesday, October 3 by 11:59pm.
+
+There are some frequently asked questions here:
+
+https://piazza.com/class/j7w9htrxqm44j5?cid=23
+
+
 ## Academic Honesty/Plagiarism
 
 Complete this tutorial:
