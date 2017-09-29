@@ -54,7 +54,7 @@ Then, from the Pi, run the following command:
 ```
 $ ./pa0.bin
 Hello, cs30f!
-Your super secret message: sooper seekret
+A number: <some number>
 ```
 
 If you accidentally run it on the `ieng6` machine, you'll just see this output:
