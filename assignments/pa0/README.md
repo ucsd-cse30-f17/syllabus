@@ -53,7 +53,7 @@ As part of this initial setup assignment we're going to copy a binary that will 
 First, you will clone a repository we've made. Since the Raspberry Pis don't have external internet access, you will do this from the `ieng6` machine:
 
 ```
-$ git clone https://github.com/ucsd-cse30-f15/pa0/
+$ git clone https://github.com/ucsd-cse30-f17/pa0/
 ```
 
 Then, from the Pi, run the following command:
