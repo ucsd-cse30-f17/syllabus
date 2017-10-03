@@ -8,7 +8,7 @@
 
 Detailed Calendar:
 
-https://docs.google.com/a/eng.ucsd.edu/spreadsheets/d/1D1esim2BmDW51wCVQ_d5I2gMYnNgZEdGZUEXLCJ8Gwg/edit?usp=sharing.
+https://docs.google.com/spreadsheets/d/1D1esim2BmDW51wCVQ_d5I2gMYnNgZEdGZUEXLCJ8Gwg/edit?usp=sharing.
 
 The above calendar will be updated in case there are changes in lab hours. Please check the calendar regularly.
 ```
