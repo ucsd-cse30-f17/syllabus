@@ -53,8 +53,6 @@ Manik Narang: 12:00 – 1:00 pm
 Jiaxio Zhou: 1:00 pm – 3:00 pm 
 Eric Yuan: 3:00 am – 5:00 pm 
 ```
-
-```
 ## Exams
 - **Midterms**: October 20, November 13
 - **Final**: December 11 (A), December 13 (B)
