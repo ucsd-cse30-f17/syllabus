@@ -15,7 +15,7 @@ The above calendar will be updated in case there are changes in lab hours. Pleas
 SUNDAY:
 Manik Narang: 11:00 am – 1:00 pm
 Jiaxiao Zhou: 1:00 pm – 3:00 pm
-Yimeng Yang: 3:00 pm – 5:00pm
+Yimeng Yang: 3:00 pm – 5:00 pm
 
 MONDAY:
 Tim Dea: 11:00 am – 12:00 pm
@@ -26,15 +26,15 @@ Eric Yuan: 6:00 pm – 7:00 pm
 TUESDAY:
 Kefan Chen: 9:00 am – 11:00 am
 Nikhil: 11:00 am – 1:00 pm
-Brandon Paw: 1:00pm – 3:00 pm
-Jocelyn: 3:00 - 6:00 pm
+Brandon Paw: 1:00 pm – 3:00 pm
+Jocelyn: 3:00 pm - 6:00 pm
 Ping Yin: 4:00 pm – 6:00 pm 
 Tim Dea: 8:00 pm – 9:00 pm 
 
 WEDNESDAY:
 Tina: 12:00 pm – 2:00 pm 
 Kefan Chen: 2:00 pm – 3:00 pm
-Ping Yin: 5:00pm – 7:00 pm 
+Ping Yin: 5:00 pm – 7:00 pm 
 
 THURSDAY:
 Kefan Chen: 10:00 am – 11: 00 am
@@ -49,9 +49,9 @@ Tina: 3:00 pm – 5:00 pm
 Eric Yuan: 5:00 pm – 6:00 pm 
 
 SATURDAY:
-Manik Narang: 12:00 – 1:00 pm
+Manik Narang: 12:00 pm – 1:00 pm
 Jiaxio Zhou: 1:00 pm – 3:00 pm 
-Eric Yuan: 3:00 am – 5:00 pm 
+Eric Yuan: 3:00 pm – 5:00 pm 
 ```
 ## Exams
 - **Midterms**: October 20, November 13
