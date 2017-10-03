@@ -5,11 +5,12 @@
 - **Lectures**: WLH 2005, Mon/Wed/Fri 8am (A section) 9am (B section)
 - **Discussion**: WLH 2005, Mon 7pm (A section) 8pm (B section)
 - **Office Hours**: EBU3B, CSE B260
-<br>
 
-Detailed Calendar:https://docs.google.com/a/eng.ucsd.edu/spreadsheets/d/1D1esim2BmDW51wCVQ_d5I2gMYnNgZEdGZUEXLCJ8Gwg/edit?usp=sharing.
-<br>
-Please refer the above calendar for up-to-date information
+Detailed Calendar:
+
+https://docs.google.com/a/eng.ucsd.edu/spreadsheets/d/1D1esim2BmDW51wCVQ_d5I2gMYnNgZEdGZUEXLCJ8Gwg/edit?usp=sharing.
+
+The above calendar will be updated in case there are changes in lab hours. Please check the calendar regularly.
 ```
 SUNDAY:
 Manik Narang: 11:00 am – 1:00 pm
