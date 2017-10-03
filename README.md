@@ -4,9 +4,10 @@
 
 - **Lectures**: WLH 2005, Mon/Wed/Fri 8am (A section) 9am (B section)
 - **Discussion**: WLH 2005, Mon 7pm (A section) 8pm (B section)
-- **Office Hours**:<br>
+- **Office Hours**: EBU3B, CSE B260
+<br>
 
-Detailed Calendar: https://docs.google.com/a/eng.ucsd.edu/spreadsheets/d/1D1esim2BmDW51wCVQ_d5I2gMYnNgZEdGZUEXLCJ8Gwg/edit?usp=sharing.
+Detailed Calendar:https://docs.google.com/a/eng.ucsd.edu/spreadsheets/d/1D1esim2BmDW51wCVQ_d5I2gMYnNgZEdGZUEXLCJ8Gwg/edit?usp=sharing.
 <br>
 Please refer the above calendar for up-to-date information
 ```
@@ -51,13 +52,7 @@ Manik Narang: 12:00 – 1:00 pm
 Jiaxio Zhou: 1:00 pm – 3:00 pm 
 Eric Yuan: 3:00 am – 5:00 pm 
 ```
-- **Discussion Sections:**
-```
-MONDAYs:
-Ping Yin: [10/2, 10/16, 10/30, 11/13, 11/27]
-7:00 pm – 8:00 pm, 8:00 pm – 9:00 pm
-Nikhil: [10/9, 10/23, 11/6, 11/20, 12/4]
-7:00 pm – 8:00 pm, 8:00 pm – 9:00 pm
+
 ```
 ## Exams
 - **Midterms**: October 20, November 13
