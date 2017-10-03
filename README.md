@@ -4,7 +4,62 @@
 
 - **Lectures**: WLH 2005, Mon/Wed/Fri 8am (A section) 9am (B section)
 - **Discussion**: WLH 2005, Mon 7pm (A section) 8pm (B section)
-- **Office Hours**: Coming Soon
+- **Office Hours**:<br>
+
+Detailed Calendar: https://docs.google.com/a/eng.ucsd.edu/spreadsheets/d/1D1esim2BmDW51wCVQ_d5I2gMYnNgZEdGZUEXLCJ8Gwg/edit?usp=sharing.
+<br>
+Please refer the above calendar for up-to-date information
+```
+SUNDAY:
+Manik Narang: 11:00 am – 1:00 pm
+Jiaxiao Zhou: 1:00 pm – 3:00 pm
+Yimeng Yang: 3:00 pm – 5:00pm
+
+MONDAY:
+Tim Dea: 11:00 am – 12:00 pm
+Prof. Joe: 1:00 pm – 2:30 pm
+Yimeng Yang: 4:00 pm – 6:00 pm
+Eric Yuan: 6:00 pm – 7:00 pm 
+
+TUESDAY:
+Kefan Chen: 9:00 am – 11:00 am
+Nikhil: 11:00 am – 1:00 pm
+Brandon Paw: 1:00pm – 3:00 pm
+Jocelyn: 3:00 - 6:00 pm
+Ping Yin: 4:00 pm – 6:00 pm 
+Tim Dea: 8:00 pm – 9:00 pm 
+
+WEDNESDAY:
+Tina: 12:00 pm – 2:00 pm 
+Kefan Chen: 2:00 pm – 3:00 pm
+Ping Yin: 5:00pm – 7:00 pm 
+
+THURSDAY:
+Kefan Chen: 10:00 am – 11: 00 am
+Nikhil: 11:00 am – 1:00 pm 
+Jocelyn: 3:00 pm – 4:00 pm
+Tim Dea: 5:00 pm – 7:00 pm
+
+FRIDAY:
+Manik Narang: 12:00 pm – 1:00 pm 
+Brandon Paw: 1:00 pm – 3:00 pm 
+Tina: 3:00 pm – 5:00 pm
+Eric Yuan: 5:00 pm – 6:00 pm 
+
+SATURDAY:
+Manik Narang: 12:00 – 1:00 pm
+Jiaxio Zhou: 1:00 pm – 3:00 pm 
+Eric Yuan: 3:00 am – 5:00 pm 
+```
+- **Discussion Sections:**
+```
+MONDAYs:
+Ping Yin: [10/2, 10/16, 10/30, 11/13, 11/27]
+7:00 pm – 8:00 pm, 8:00 pm – 9:00 pm
+Nikhil: [10/9, 10/23, 11/6, 11/20, 12/4]
+7:00 pm – 8:00 pm, 8:00 pm – 9:00 pm
+```
+## Exams
 - **Midterms**: October 20, November 13
 - **Final**: December 11 (A), December 13 (B)
 
