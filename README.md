@@ -4,7 +4,7 @@
 
 - **Lectures**: WLH 2005, Mon/Wed/Fri 8am (A section) 9am (B section)
 - **Discussion**: WLH 2005, Mon 7pm (A section) 8pm (B section)
-- **Prof Office Hours**: CSE 3206, Friday, 10-11am (in Prof. Joe's office)
+- **Prof Office Hours**: CSE 3206, Friday, 10-11am (in Prof. Joe's office), or email if you need an appointment
 - **Lab/Office Hours**: EBU3B, CSE B260
 
 Detailed Calendar:
