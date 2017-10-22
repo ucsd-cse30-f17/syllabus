@@ -19,6 +19,8 @@ There will be 1-3 reading and review quizzes per week, done online. These are pr
 
 Not all lectures will have readings assigned, but many will.
 
+Reading quizzes will be posted the lecture before they are due (so a quiz due Wednesday at 8am will be released Monday morning, for example). This means it's always safe to check after class if a quiz is due before the next one.
+
 ## Participation/clickers
 
 We will use clickers in class. You will get a participation grade based on the proportion of clicker reponses you give. Correctness is _not_ taken into account in calculating this part of your grade, just participation in the questions.
